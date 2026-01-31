@@ -1,0 +1,31 @@
+body {
+    font-family: cursive;
+    background-color: wheat;
+}
+.inputs input {
+    width: 90px;
+    padding: 8px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 5PX;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #025808;
+}
+
+#display {
+    font-size: 25px;
+    margin-top: 15px;
+} 

@@ -1,0 +1,28 @@
+h1{
+    color: white;
+    text-align: center;
+    text-shadow: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 40px;
+    text-decoration: underline;
+}
+
+p{
+    color: white;
+    text-align: center;
+    display: flex;
+    font-weight: 80px;
+    justify-content: center;
+    font-size: 30px;
+    text-decoration: dashed;
+
+}
+
+body{
+    background-image: url("https://media.istockphoto.com/id/1550071750/photo/green-tea-tree-leaves-camellia-sinensis-in-organic-farm-sunlight-fresh-young-tender-bud.jpg?s=612x612&w=0&k=20&c=RC_xD5DY5qPH_hpqeOY1g1pM6bJgGJSssWYjVIvvoLw=");
+    background-repeat: no-repeat;
+    height: 10vh;
+    width: 90vw;
+    background-size: cover;
+}
